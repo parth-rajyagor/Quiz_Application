@@ -1,1 +1,2 @@
 # Quiz_Application
+This is a simple quiz application in java using java swing, awt and awt.event. In these project we have created 4 java files. SimpleMinds is the 1st file where we have created a login page where we have to enter the name of a player. Following to that we have created Rules.java file where we have mentioned some rules of the game. Quiz.java is the main functioning of the project where we have created the questions and answers of that quiz and lastly we have Score.java to display the score of quiz.
